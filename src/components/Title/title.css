@@ -1,0 +1,9 @@
+.Title {
+  color: #444;
+  margin: 0;
+
+  &-description {
+    color: #acb2b5;
+    margin-bottom: 0;
+  }
+}
