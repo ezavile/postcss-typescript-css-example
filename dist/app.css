@@ -1,0 +1,44 @@
+.Title {
+  color: #444;
+  margin: 0
+}
+.Title-description {
+  color: #acb2b5;
+  margin-bottom: 0
+}
+._Card_104ne_1 {
+  box-shadow: rgba(0, 0, 0, .117647) 0 1px 6px, rgba(0, 0, 0, .117647) 0 1px 4px;
+  border-radius: 2px;
+  max-width: 600px;
+  margin: 0 auto
+}
+._Card-header_104ne_1 {
+  background-color: rgba(232, 232, 232, .4);
+  padding: 32px;
+  padding: 32px;
+  padding: 2rem
+}
+._Card-content_104ne_1 {
+  padding: 0 32px 32px;
+  padding: 0 32px 32px;
+  padding: 0 2rem 2rem
+}
+._Card-content-code_104ne_1 {
+  padding: 16px;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f6f8fa;
+  border-radius: 3px
+}
+._Card-content-reserverd-word-ts_104ne_1 {
+  color: #a71d5d
+}
+._Card-content-string-ts_104ne_1 {
+  color: #183691
+}
+._Card-content-classname-css_104ne_1 {
+  color: #795da3
+}
+._Card-content-attr-css_104ne_1 {
+  color: #0086b3
+}
