@@ -1,6 +1,6 @@
 {
   "name": "postcss-typescript-css-example",
-  "version": "0.0.0-development",
+  "version": "0.1.0",
   "description": "How to use postcss-typescript-css plugin with webpack 2, React, TypeScript and PostCSS",
   "main": "src/index.tsx",
   "repository": "git@github.com:ezavile/postcss-typescript-css-example.git",
