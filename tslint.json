@@ -12,7 +12,7 @@
     "forin": true,
     "indent": [true, "spaces"],
     "label-position": true,
-    "max-line-length": [true, 80],
+    "max-line-length": [true, 200],
     "no-arg": true,
     "no-bitwise": true,
     "no-console": [
